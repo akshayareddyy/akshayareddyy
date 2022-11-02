@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @akshayareddyy
-- 👀 I’m interested in listening music
 
 <!---
 akshayareddyy/akshayareddyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
